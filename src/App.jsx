@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Navbar from './compnents/Navbar';
+import Heading from './Heading';
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
 
         <Navbar/>
         <h1 style={{color: "red"}}>hello world!</h1>
+        <Heading />
       </div>
   )
 }
