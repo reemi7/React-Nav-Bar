@@ -8,7 +8,6 @@ function App() {
       <div>
 
         <Navbar/>
-        <h1 style={{color:"white"}}>heeloo world</h1>
       </div>
   )
 }
