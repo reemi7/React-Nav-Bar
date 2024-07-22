@@ -7,7 +7,8 @@ function Hero() {
         <h1>asdfg</h1>
       </div>
       <div className="right">
-        
+        <img src="" alt="hero image" />
+
       </div>
     </div>
   )
