@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import Navbar from './compnents/Navbar';
-import Heading from './Heading';
-import Hero from './Hero';
+
 
 function App() {
 
@@ -10,7 +9,6 @@ function App() {
       <div>
 
         <Navbar/>
-        <Hero/>
       </div>
   )
 }
